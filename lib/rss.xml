@@ -1,70 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Honours-Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://maxfleming23.github.io/Honours-Notes/</link><image><url>https://maxfleming23.github.io/Honours-Notes/lib/media/favicon.png</url><title>Honours-Notes</title><link>https://maxfleming23.github.io/Honours-Notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Feb 2025 10:58:05 GMT</lastBuildDate><atom:link href="https://maxfleming23.github.io/Honours-Notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Feb 2025 10:58:02 GMT</pubDate><copyright><![CDATA[Max Fleming]]></copyright><ttl>60</ttl><dc:creator>Max Fleming</dc:creator><item><title><![CDATA[On Gauge Invariance and Vacuum Polarization]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1103/PhysRev.82.664" target="_blank">https://doi.org/10.1103/PhysRev.82.664</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html</link><guid isPermaLink="false">Honours/Articles/On Gauge Invariance and Vacuum Polarization.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 13 Feb 2025 02:14:27 GMT</pubDate></item><item><title><![CDATA[Exploring Quantum Tunnelling through External Potentials, A QFT approach]]></title><description><![CDATA[ 
- <br><br>The Lagrangian for a Dirac field coupled to a external potential  is:<br><br>
-<br>Vertex factor: Each insertion of  gives:
-
-
-<br>Fermion propagator:
-
-
-<br>Integration measure: Each internal fermion line integrates over:
-
-
-<br>We consider a 1D delta potential:<br><br>and its Fourier transform is:<br><br><br>Really we just modify the previous scalar-field calculation with<br><br>At first order, the S-matrix element is:<br><br>At second order, we have:<br><br>Substituting  collapses the integrals over :<br><br>The Dirac propagator becomes:<br><br>Performing the contour integral in  we find:<br><br>Thus,<br><br>That is,<br><br>At -th order,<br><br>Summing all orders gives:<br><br><br>Recall:<br><br>with analogy to the scalar case (i haven't checked thoroughly!) we get:<br><br>where:<br><br>and clearly,<br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html</link><guid isPermaLink="false">Honours/Calcs/Exploring Quantum Tunnelling through External Potentials, A QFT approach.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 10:48:53 GMT</pubDate></item><item><title><![CDATA[NRQM tunnelling through barrier]]></title><description><![CDATA[ 
- <br><br><img alt="Pasted image 20250205131223.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png"><br><br><br>define discretely:<br><br>using these and equation 1 we get<br><br>we see we can write<br><br>for any . Then plugging this into the previous we get relations<br><br>with BC: <br>
-Then at  we have<br><br>So <br><br>and<br><br>we find:<br><br>and so transmission probability is:<br><br><br>We wish to solve the recurrence<br><br>with the initial values  and  given, and where  is a given sequence of coefficients.<br>
-We write as<br><br>Defining<br><br>using left side BC we see this matrix give the right coefficients<br><br>
-Matrices  are like generators?
-<br>Then we can use these to compute .<br><br><br><br>Where<br><br>Easy to check that transmission coefficient is<br><br>that is<br><br>Can we recover this from our new sequence/matrix discrete limit method?<br>in the case of the square barrier<br><br>So we want to find the following matrix product limit<br><br><br>Eigenvalues...<br>
-<img alt="Pasted image 20250206105604.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206105604.png"><br>
-<br>thought there would be a problem for there real values of 
-<br>there was in first simulation... this was naively bad choice of params!!!!
-<br>
-Interesting, but side tracking, observations<br>
-We are forced to choose: "Filling schemes" around the unit circle... ?<br>
-The sum of every alternation choice of harmonic sequence. wrapped around unit circle (reflection at zero)
-
-<br>divergence can be made controllable by epsilon??!
-<br>even-odd alternations is really the same (infinite eigen vector flipping with same eineg value (e+ + e- /2)?)
-
-<br>Tried:<br>
-write as:<br><br><br>"a sum of eigenvalues" leads to interesting harmonic sequence unit circle wrapped sum!!?<br><br><img alt="Pasted image 20250206105754.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206105754.png"><br>
-using  (as in Schiff)<br>
-<br>matches!<br>
-(really must have been choosing bad values in previous sim for it to blow up!)
-<br><br>see 2_06_practice_barrier.ipynb<br><img alt="Pasted image 20250206113603.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206113603.png"><br><img alt="Pasted image 20250206113609.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206113609.png"><br><br>Square:<br>
-<img alt="Pasted image 20250206121441.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206121441.png"><br>Gaussian:<br>
-<img alt="Pasted image 20250206125659.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206125659.png"><br>
-<img alt="Pasted image 20250206125629.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206125629.png"><br>
-<img alt="Pasted image 20250206131342.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206131342.png"><br><br><br><br>Extension:<br>
-<br>higher-order schemes fourth-order Numerov-like methods
-<br>variable step size, investigating recursion stability
-<br>time-dependent versions
-<br>multi-channel / multi-dimensional
-<br>Green's Function Method: <br>
-<br>book by Eleftherios N Economou QC174_17_G68_E25_2006_Green_s_functions_in_quantum_physics_Eleftherios_N_Economou.pdf
-<br><br>continuing in the jupyter notebook.<br>first with no spin coupling:<br>
-<img alt="Pasted image 20250214175804.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175804.png"><br>
-<img alt="Pasted image 20250214175812.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175812.png"><br>
-<br>we notice that the ideal limit seems to be squeezed in the x-coordinate by about a factor 2
-<br><img alt="Pasted image 20250214175914.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175914.png"><br>
-nice! appears similar for:<br>
-<img alt="Pasted image 20250214180016.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214180016.png"><br>
-<img alt="Pasted image 20250214180025.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214180025.png"><br>
-(this might not be implemented correctly!)<br>... anyway on to Spin Coupling:<br><br>A spin-  wavefunction in 1D is a two-component spinor:<br><br>We introduce  a general "spin-coupling"<br><br>
-<br> can flip "spin-up" in the -basis into "spin-down"
-<br> splits the energies of up vs. down
-<br>A term like  can cause a mix of spin flip plus a phase shift
-<br><img alt="Pasted image 20250214181434.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214181434.png"><br>
-<br>interesting!
-<br><br>Implementing the Split-Step Fourier Method<br><br><img alt="output-14-02-25.gif" src="https://maxfleming23.github.io/Honours-Notes/lib/media/output-14-02-25.gif">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html</link><guid isPermaLink="false">Honours/Calcs/NRQM tunnelling through barrier.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Fri, 14 Feb 2025 08:12:25 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes share site]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html" target="_blank">https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</a><br>A public hosted copy of my honours notes for easy sharing.<br>
-Includes a RSS feed: https://maxfleming23.github.io/Honours-Notes/lib/rss.xml<br>
-(still a little glitchy to access individual linked content / images)<br>Makes use of plugin: <a rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a> and github.io hosting<br>A reminder for me:<br>git add .
-git commit -m "date or otherwise"
-git push origin main
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html</link><guid isPermaLink="false">Honours/Fun-Fact/Notes share site.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 06 Feb 2025 04:35:39 GMT</pubDate></item><item><title><![CDATA[RH Saga]]></title><description><![CDATA[ 
- <br>https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html</link><guid isPermaLink="false">Honours/Fun-Fact/RH Saga.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 11 Feb 2025 23:14:39 GMT</pubDate></item><item><title><![CDATA[Honours Journal]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Honours-Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://maxfleming23.github.io/Honours-Notes/</link><image><url>https://maxfleming23.github.io/Honours-Notes/lib/media/favicon.png</url><title>Honours-Notes</title><link>https://maxfleming23.github.io/Honours-Notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Feb 2025 11:06:33 GMT</lastBuildDate><atom:link href="https://maxfleming23.github.io/Honours-Notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Feb 2025 11:06:32 GMT</pubDate><copyright><![CDATA[Max Fleming]]></copyright><ttl>60</ttl><dc:creator>Max Fleming</dc:creator><item><title><![CDATA[Honours Journal]]></title><description><![CDATA[ 
  <br><br><br>
 <br>meetup, setup desk
 <br>WHS modules
@@ -159,8 +93,74 @@ git push origin main
 
 <br>Calculating R/T coefficients <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach#Reflection and Transmission coefficients" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html#Reflection_and_Transmission_coefficients" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach &gt; Reflection and Transmission coefficients</a>
 <br>Fri 14/02:<br>
+<br>Journal cleanup!
+<br>Weekend:<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</link><guid isPermaLink="false">Honours/Honours Journal.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 11:02:41 GMT</pubDate></item><item><title><![CDATA[On Gauge Invariance and Vacuum Polarization]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1103/PhysRev.82.664" target="_blank">https://doi.org/10.1103/PhysRev.82.664</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html</link><guid isPermaLink="false">Honours/Articles/On Gauge Invariance and Vacuum Polarization.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 13 Feb 2025 02:14:27 GMT</pubDate></item><item><title><![CDATA[Exploring Quantum Tunnelling through External Potentials, A QFT approach]]></title><description><![CDATA[ 
+ <br><br>The Lagrangian for a Dirac field coupled to a external potential  is:<br><br>
+<br>Vertex factor: Each insertion of  gives:
+
+
+<br>Fermion propagator:
+
+
+<br>Integration measure: Each internal fermion line integrates over:
+
+
+<br>We consider a 1D delta potential:<br><br>and its Fourier transform is:<br><br><br>Really we just modify the previous scalar-field calculation with<br><br>At first order, the S-matrix element is:<br><br>At second order, we have:<br><br>Substituting  collapses the integrals over :<br><br>The Dirac propagator becomes:<br><br>Performing the contour integral in  we find:<br><br>Thus,<br><br>That is,<br><br>At -th order,<br><br>Summing all orders gives:<br><br><br>Recall:<br><br>with analogy to the scalar case (i haven't checked thoroughly!) we get:<br><br>where:<br><br>and clearly,<br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html</link><guid isPermaLink="false">Honours/Calcs/Exploring Quantum Tunnelling through External Potentials, A QFT approach.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 10:48:53 GMT</pubDate></item><item><title><![CDATA[NRQM tunnelling through barrier]]></title><description><![CDATA[ 
+ <br><br><img alt="Pasted image 20250205131223.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png"><br><br><br>define discretely:<br><br>using these and equation 1 we get<br><br>we see we can write<br><br>for any . Then plugging this into the previous we get relations<br><br>with BC: <br>
+Then at  we have<br><br>So <br><br>and<br><br>we find:<br><br>and so transmission probability is:<br><br><br>We wish to solve the recurrence<br><br>with the initial values  and  given, and where  is a given sequence of coefficients.<br>
+We write as<br><br>Defining<br><br>using left side BC we see this matrix give the right coefficients<br><br>
+Matrices  are like generators?
+<br>Then we can use these to compute .<br><br><br><br>Where<br><br>Easy to check that transmission coefficient is<br><br>that is<br><br>Can we recover this from our new sequence/matrix discrete limit method?<br>in the case of the square barrier<br><br>So we want to find the following matrix product limit<br><br><br>Eigenvalues...<br>
+<img alt="Pasted image 20250206105604.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206105604.png"><br>
+<br>thought there would be a problem for there real values of 
+<br>there was in first simulation... this was naively bad choice of params!!!!
 <br>
-<br>Weekend:<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</link><guid isPermaLink="false">Honours/Honours Journal.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 10:56:48 GMT</pubDate></item><item><title><![CDATA[Quantum corrections to tunnelling amplitudes of neutral scalar fields]]></title><description><![CDATA[ 
+Interesting, but side tracking, observations<br>
+We are forced to choose: "Filling schemes" around the unit circle... ?<br>
+The sum of every alternation choice of harmonic sequence. wrapped around unit circle (reflection at zero)
+
+<br>divergence can be made controllable by epsilon??!
+<br>even-odd alternations is really the same (infinite eigen vector flipping with same eineg value (e+ + e- /2)?)
+
+<br>Tried:<br>
+write as:<br><br><br>"a sum of eigenvalues" leads to interesting harmonic sequence unit circle wrapped sum!!?<br><br><img alt="Pasted image 20250206105754.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206105754.png"><br>
+using  (as in Schiff)<br>
+<br>matches!<br>
+(really must have been choosing bad values in previous sim for it to blow up!)
+<br><br>see 2_06_practice_barrier.ipynb<br><img alt="Pasted image 20250206113603.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206113603.png"><br><img alt="Pasted image 20250206113609.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206113609.png"><br><br>Square:<br>
+<img alt="Pasted image 20250206121441.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206121441.png"><br>Gaussian:<br>
+<img alt="Pasted image 20250206125659.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206125659.png"><br>
+<img alt="Pasted image 20250206125629.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206125629.png"><br>
+<img alt="Pasted image 20250206131342.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250206131342.png"><br><br><br><br>Extension:<br>
+<br>higher-order schemes fourth-order Numerov-like methods
+<br>variable step size, investigating recursion stability
+<br>time-dependent versions
+<br>multi-channel / multi-dimensional
+<br>Green's Function Method: <br>
+<br>book by Eleftherios N Economou QC174_17_G68_E25_2006_Green_s_functions_in_quantum_physics_Eleftherios_N_Economou.pdf
+<br><br>continuing in the jupyter notebook.<br>first with no spin coupling:<br>
+<img alt="Pasted image 20250214175804.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175804.png"><br>
+<img alt="Pasted image 20250214175812.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175812.png"><br>
+<br>we notice that the ideal limit seems to be squeezed in the x-coordinate by about a factor 2
+<br><img alt="Pasted image 20250214175914.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214175914.png"><br>
+nice! appears similar for:<br>
+<img alt="Pasted image 20250214180016.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214180016.png"><br>
+<img alt="Pasted image 20250214180025.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214180025.png"><br>
+(this might not be implemented correctly!)<br>... anyway on to Spin Coupling:<br><br>A spin-  wavefunction in 1D is a two-component spinor:<br><br>We introduce  a general "spin-coupling"<br><br>
+<br> can flip "spin-up" in the -basis into "spin-down"
+<br> splits the energies of up vs. down
+<br>A term like  can cause a mix of spin flip plus a phase shift
+<br><img alt="Pasted image 20250214181434.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214181434.png"><br>
+<br>interesting!
+<br><br>Implementing the Split-Step Fourier Method<br><br><img alt="output-14-02-25.gif" src="https://maxfleming23.github.io/Honours-Notes/lib/media/output-14-02-25.gif">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html</link><guid isPermaLink="false">Honours/Calcs/NRQM tunnelling through barrier.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Fri, 14 Feb 2025 08:12:25 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes share site]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html" target="_blank">https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</a><br>A public hosted copy of my honours notes for easy sharing.<br>
+Includes a RSS feed: https://maxfleming23.github.io/Honours-Notes/lib/rss.xml<br>
+(still a little glitchy to access individual linked content / images)<br>Makes use of plugin: <a rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a> and github.io hosting<br>A reminder for me:<br>git add .
+git commit -m "date or otherwise"
+git push origin main
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html</link><guid isPermaLink="false">Honours/Fun-Fact/Notes share site.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 06 Feb 2025 04:35:39 GMT</pubDate></item><item><title><![CDATA[RH Saga]]></title><description><![CDATA[ 
+ <br>https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html</link><guid isPermaLink="false">Honours/Fun-Fact/RH Saga.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 11 Feb 2025 23:14:39 GMT</pubDate></item><item><title><![CDATA[Quantum corrections to tunnelling amplitudes of neutral scalar fields]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13287-3" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13287-3</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/quantum-corrections-to-tunnelling-amplitudes-of-neutral-scalar-fields.html</link><guid isPermaLink="false">Honours/Articles/Quantum corrections to tunnelling amplitudes of neutral scalar fields.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 05:34:44 GMT</pubDate></item><item><title><![CDATA[Tunnelling amplitudes through localised external potentials from Feynman diagram summation]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13332-1" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13332-1</a><br>
 <br>use delta function external potential
