@@ -1,101 +1,20 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Honours-Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://maxfleming23.github.io/Honours-Notes/</link><image><url>https://maxfleming23.github.io/Honours-Notes/lib/media/favicon.png</url><title>Honours-Notes</title><link>https://maxfleming23.github.io/Honours-Notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Feb 2025 11:06:33 GMT</lastBuildDate><atom:link href="https://maxfleming23.github.io/Honours-Notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Feb 2025 11:06:32 GMT</pubDate><copyright><![CDATA[Max Fleming]]></copyright><ttl>60</ttl><dc:creator>Max Fleming</dc:creator><item><title><![CDATA[Honours Journal]]></title><description><![CDATA[ 
- <br><br><br>
-<br>meetup, setup desk
-<br>WHS modules
-<br>play with creating Feynman diagrams in latex (resource: 1601.05437)
-<br>re-reading papers and thesis (see <a data-href="Rosemary Zielinski Works" href="https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html" class="internal-link" target="_self" rel="noopener nofollow">Rosemary Zielinski Works</a>):
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Honours-Notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://maxfleming23.github.io/Honours-Notes/</link><image><url>https://maxfleming23.github.io/Honours-Notes/lib/media/favicon.png</url><title>Honours-Notes</title><link>https://maxfleming23.github.io/Honours-Notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Feb 2025 11:11:46 GMT</lastBuildDate><atom:link href="https://maxfleming23.github.io/Honours-Notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Feb 2025 11:11:38 GMT</pubDate><copyright><![CDATA[Max Fleming]]></copyright><ttl>60</ttl><dc:creator>Max Fleming</dc:creator><item><title><![CDATA[On Gauge Invariance and Vacuum Polarization]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1103/PhysRev.82.664" target="_blank">https://doi.org/10.1103/PhysRev.82.664</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html</link><guid isPermaLink="false">Honours/Articles/On Gauge Invariance and Vacuum Polarization.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 13 Feb 2025 02:14:27 GMT</pubDate></item><item><title><![CDATA[Quantum corrections to tunnelling amplitudes of neutral scalar fields]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13287-3" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13287-3</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/quantum-corrections-to-tunnelling-amplitudes-of-neutral-scalar-fields.html</link><guid isPermaLink="false">Honours/Articles/Quantum corrections to tunnelling amplitudes of neutral scalar fields.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 05:34:44 GMT</pubDate></item><item><title><![CDATA[Tunnelling amplitudes through localised external potentials from Feynman diagram summation]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13332-1" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13332-1</a><br>
+<br>use delta function external potential
+<br>write diagram summation as geometric series
+<br>calc R and T
+<br>use sum of two deltas
+<br>Suggest:<br>
+<br>delta limit recovers other potentials????
 
-<br><a data-href="Tunnelling amplitudes through localised external potentials from Feynman diagram summation" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/tunnelling-amplitudes-through-localised-external-potentials-from-feynman-diagram-summation.html" class="internal-link" target="_self" rel="noopener nofollow">Tunnelling amplitudes through localised external potentials from Feynman diagram summation</a> (2405.11779)
-
-
-<br>Areas of promise: <a data-href="Rosemary Zielinski Works#Future Directions" href="https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html#Future_Directions" class="internal-link" target="_self" rel="noopener nofollow">Rosemary Zielinski Works &gt; Future Directions</a>
-<br><br>Mon 03/02:<br>
-<br>Admin: laptop power tagged and tested, AH access
-
-<br>printing setup windows-vm and arch alias: physicsprint
+<br>Subramanian and Bhangwat's relativistic treatment of the Saxon-Hutner theorem
+<br>later resolved by Calkin et. al.
 
 
-<br>Reading: pg1-10 <a data-href="Quantum fields with classical perturbations" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/quantum-fields-with-classical-perturbations.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum fields with classical perturbations</a>, - really a great resource, it seems!
-<br>Identify larger resources (read TOC):
-
-<br><a data-href="Advances in QED with intense background fields" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/advances-in-qed-with-intense-background-fields.html" class="internal-link" target="_self" rel="noopener nofollow">Advances in QED with intense background fields</a> including: Furry Expansion and Schwinger Effect
-<br><a data-href="Strong-field physics in QED and QCD From fundamentals to applications" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/strong-field-physics-in-qed-and-qcd-from-fundamentals-to-applications.html" class="internal-link" target="_self" rel="noopener nofollow">Strong-field physics in QED and QCD From fundamentals to applications</a>
-
-
-<br>Tue 04/02:<br>
-<br>read pg10-30 and skim rest of <a data-href="Quantum fields with classical perturbations" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/quantum-fields-with-classical-perturbations.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum fields with classical perturbations</a>. 
-
-<br>section on neutral/charged scalar fields with mass/non-mass sources (including renormalisation)!
-
-
-<br>Start this journal!
-<br>Investigate <a data-href="Klein paradox" href="https://maxfleming23.github.io/Honours-Notes/honours/topics/klein-paradox.html" class="internal-link" target="_self" rel="noopener nofollow">Klein paradox</a>:
-
-<br>read Klein's The reflection of electrons by a potential jump according to Dirac’s relativistic dynamics
-<br>read Seventy years of the Klein paradox
-
-
-<br>Wed 05/02:<br>
-<br>read and write up cedric's <a data-href="NRQM tunnelling through barrier#Derivation" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Derivation" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Derivation</a> calc
-<br>I ran a simple sim but could not seem to avoid divergence (really I was choosing wrong constant values!)
-<br>Investigated sequence/matrix limit and examples <a data-href="NRQM tunnelling through barrier#Trying examples" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Trying_examples" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Trying examples</a> and 2_05_Tunneling Arbitrary Potential.pdf
-<br>Got a little side tracked... 
-
-<br>realised in analytic investigation that dynamics look like a Dirichlet L-function
-<br>played around in 2_05_Tunneling Arbitrary Potential.pdf
-
-
-<br>Thu 06/02:<br>
-<br>Morning: resolved divergence problem! wrote/ran simulations:<a data-href="NRQM tunnelling through barrier#Numerical solutions" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Numerical_solutions" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Numerical solutions</a> in 2_06_practice_barrier.ipynb
-
-<br>limiting to delta
-<br>limits from delta
-
-
-<br>read/skim The Dynamics of Runge–Kutta Methods
-<br>Afternoon: setup <a data-href="Notes share site" href="https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html" class="internal-link" target="_self" rel="noopener nofollow">Notes share site</a>: <a rel="noopener nofollow" class="external-link" href="https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html" target="_blank">https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</a>
-<br>Fri 07/02:<br>
-<br>re-read <a data-href="Quantum corrections to tunnelling amplitudes of neutral scalar fields" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/quantum-corrections-to-tunnelling-amplitudes-of-neutral-scalar-fields.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum corrections to tunnelling amplitudes of neutral scalar fields</a> 
-<br>read Schwinger's <a data-href="On Gauge Invariance and Vacuum Polarization" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html" class="internal-link" target="_self" rel="noopener nofollow">On Gauge Invariance and Vacuum Polarization</a>
-<br>read <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach</a>
-<br>Found Numerov's method!!! <a data-href="NRQM tunnelling through barrier#Compare to Literature" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Compare_to_Literature" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Compare to Literature</a>
-<br>Weekend:<br>
-<br>Watched 1,2,3 of <a data-href="RH Saga" href="https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html" class="internal-link" target="_self" rel="noopener nofollow">RH Saga</a> (upcoming video on connection to QFT??! )
-
-<br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3" target="_blank">https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3</a> (a little further down the rabbit hole of L-functions)
-<br><a rel="noopener nofollow" class="external-link" href="https://www.lmfdb.org/" target="_blank">https://www.lmfdb.org/</a>
-
-
-<br><br>Mon 10/02:<br>
-<br>O week activities
-<br>Tue 11/02:<br>
-<br>10am honours induction meeting; catch-up until mid afternoon
-<br>read about Hartree-Fock diagrammatic expansion in Book: Quantum theory of many-particle systems QC174_17_P7_F47_2003_Quantum_theory_of_many_particle_systems_Alexander_L_Fetter.pdf
-<br>Great book by Economou with many general green's function methods! QC174_17_G68_E25_2006_Green_s_functions_in_quantum_physics_Eleftherios_N_Economou.pdf
-<br>Wed 12/02:<br>
-<br>Spin extension to discrete tunnelling simulations <a data-href="NRQM tunnelling through barrier#Spin Extension" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Spin_Extension" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Spin Extension</a>
-
-<br>Marked as possible future analogy to QFT result?
-
-
-<br>Split Step Fourier Method <a data-href="NRQM tunnelling through barrier#Multi-dimension time-dep wave-packet" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Multi-dimension_time-dep_wave-packet" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Multi-dimension time-dep wave-packet</a>:
-
-<br>read 2_13_0723033.pdf 
-<br>implement in 2_06_practice_barrier.ipynb 
-
-
-<br>Thu 13/02:<br>
-<br>re-read <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach</a> and try an alternative approach:
-<br>Extending to Dirac case <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach#Dirac Field Alternative Derivation" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html#Dirac_Field_Alternative_Derivation" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach &gt; Dirac Field Alternative Derivation</a>
-
-<br>also see hand written notes 2_13_hand-scratch-dirac-case-draft.jpg
-
-
-<br>Calculating R/T coefficients <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach#Reflection and Transmission coefficients" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html#Reflection_and_Transmission_coefficients" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach &gt; Reflection and Transmission coefficients</a>
-<br>Fri 14/02:<br>
-<br>Journal cleanup!
-<br>Weekend:<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</link><guid isPermaLink="false">Honours/Honours Journal.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 11:02:41 GMT</pubDate></item><item><title><![CDATA[On Gauge Invariance and Vacuum Polarization]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1103/PhysRev.82.664" target="_blank">https://doi.org/10.1103/PhysRev.82.664</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html</link><guid isPermaLink="false">Honours/Articles/On Gauge Invariance and Vacuum Polarization.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 13 Feb 2025 02:14:27 GMT</pubDate></item><item><title><![CDATA[Exploring Quantum Tunnelling through External Potentials, A QFT approach]]></title><description><![CDATA[ 
+<br>how to recover delta function limit? perhaps sharply peaked function.
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/tunnelling-amplitudes-through-localised-external-potentials-from-feynman-diagram-summation.html</link><guid isPermaLink="false">Honours/Articles/Tunnelling amplitudes through localised external potentials from Feynman diagram summation.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 05:41:12 GMT</pubDate></item><item><title><![CDATA[Exploring Quantum Tunnelling through External Potentials, A QFT approach]]></title><description><![CDATA[ 
  <br><br>The Lagrangian for a Dirac field coupled to a external potential  is:<br><br>
 <br>Vertex factor: Each insertion of  gives:
 
@@ -153,36 +72,21 @@ nice! appears similar for:<br>
 <br>A term like  can cause a mix of spin flip plus a phase shift
 <br><img alt="Pasted image 20250214181434.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250214181434.png"><br>
 <br>interesting!
-<br><br>Implementing the Split-Step Fourier Method<br><br><img alt="output-14-02-25.gif" src="https://maxfleming23.github.io/Honours-Notes/lib/media/output-14-02-25.gif">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html</link><guid isPermaLink="false">Honours/Calcs/NRQM tunnelling through barrier.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Fri, 14 Feb 2025 08:12:25 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes share site]]></title><description><![CDATA[ 
+<br><br>Implementing the Split-Step Fourier Method<br><br><img alt="output-14-02-25.gif" src="https://maxfleming23.github.io/Honours-Notes/lib/media/output-14-02-25.gif">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html</link><guid isPermaLink="false">Honours/Calcs/NRQM tunnelling through barrier.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Fri, 14 Feb 2025 08:12:25 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250205131223.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Notes share site]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html" target="_blank">https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</a><br>A public hosted copy of my honours notes for easy sharing.<br>
 Includes a RSS feed: https://maxfleming23.github.io/Honours-Notes/lib/rss.xml<br>
 (still a little glitchy to access individual linked content / images)<br>Makes use of plugin: <a rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">https://github.com/KosmosisDire/obsidian-webpage-export</a> and github.io hosting<br>A reminder for me:<br>git add .
 git commit -m "date or otherwise"
 git push origin main
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html</link><guid isPermaLink="false">Honours/Fun-Fact/Notes share site.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 06 Feb 2025 04:35:39 GMT</pubDate></item><item><title><![CDATA[RH Saga]]></title><description><![CDATA[ 
- <br>https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html</link><guid isPermaLink="false">Honours/Fun-Fact/RH Saga.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 11 Feb 2025 23:14:39 GMT</pubDate></item><item><title><![CDATA[Quantum corrections to tunnelling amplitudes of neutral scalar fields]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13287-3" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13287-3</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/quantum-corrections-to-tunnelling-amplitudes-of-neutral-scalar-fields.html</link><guid isPermaLink="false">Honours/Articles/Quantum corrections to tunnelling amplitudes of neutral scalar fields.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 05:34:44 GMT</pubDate></item><item><title><![CDATA[Tunnelling amplitudes through localised external potentials from Feynman diagram summation]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1140/epjc/s10052-024-13332-1" target="_blank">https://doi.org/10.1140/epjc/s10052-024-13332-1</a><br>
-<br>use delta function external potential
-<br>write diagram summation as geometric series
-<br>calc R and T
-<br>use sum of two deltas
-<br>Suggest:<br>
-<br>delta limit recovers other potentials????
-
-<br>Subramanian and Bhangwat's relativistic treatment of the Saxon-Hutner theorem
-<br>later resolved by Calkin et. al.
-
-
-<br>how to recover delta function limit? perhaps sharply peaked function.
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/articles/tunnelling-amplitudes-through-localised-external-potentials-from-feynman-diagram-summation.html</link><guid isPermaLink="false">Honours/Articles/Tunnelling amplitudes through localised external potentials from Feynman diagram summation.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 05:41:12 GMT</pubDate></item><item><title><![CDATA[Oskar Benjamin Klein]]></title><description><![CDATA[ 
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html</link><guid isPermaLink="false">Honours/Fun-Fact/Notes share site.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Thu, 06 Feb 2025 04:35:39 GMT</pubDate></item><item><title><![CDATA[Oskar Benjamin Klein]]></title><description><![CDATA[ 
  <br>15 September 1894 – 5 February 1977<br>
 <br>Swedish
 <br>Works:<br>
 <br>Kaluza–Klein theory
 <br>Klein-Gordon equation
 <br>Klein Paradox
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/oskar-benjamin-klein.html</link><guid isPermaLink="false">Honours/Fun-Fact/Oskar Benjamin Klein.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 05:37:49 GMT</pubDate></item><item><title><![CDATA[Walter Gordon]]></title><description><![CDATA[ 
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/oskar-benjamin-klein.html</link><guid isPermaLink="false">Honours/Fun-Fact/Oskar Benjamin Klein.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 05:37:49 GMT</pubDate></item><item><title><![CDATA[RH Saga]]></title><description><![CDATA[ 
+ <br>https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html</link><guid isPermaLink="false">Honours/Fun-Fact/RH Saga.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 11 Feb 2025 23:14:39 GMT</pubDate></item><item><title><![CDATA[Walter Gordon]]></title><description><![CDATA[ 
  ]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/walter-gordon.html</link><guid isPermaLink="false">Honours/Fun-Fact/Walter Gordon.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 05:41:12 GMT</pubDate></item><item><title><![CDATA[Advances in QED with intense background fields]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1016/j.physrep.2023.01.003" target="_blank">https://doi.org/10.1016/j.physrep.2023.01.003</a>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/advances-in-qed-with-intense-background-fields.html</link><guid isPermaLink="false">Honours/Notes-Reports/Advances in QED with intense background fields.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 04 Feb 2025 05:23:16 GMT</pubDate></item><item><title><![CDATA[Quantum fields with classical perturbations]]></title><description><![CDATA[ 
  <br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1063/1.4878920" target="_blank">https://doi.org/10.1063/1.4878920</a><br>
@@ -281,7 +185,7 @@ B: mass-like perturbation (renormalisation)<br>APPENDIX (pg159)]]></description>
 - time-independent tunnelling incompatible with dynamical pair production<br>
 - consequence of RQM negative energy states of Dirac equation<br>
 -&gt; generally accepted to resolved within the context of QFT.
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/klein-paradox.html</link><guid isPermaLink="false">Honours/Topics/Klein paradox.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 04 Feb 2025 05:57:01 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[LSZ reduction formula]]></title><description><![CDATA[ 
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/klein-paradox.html</link><guid isPermaLink="false">Honours/Topics/Klein paradox.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Tue, 04 Feb 2025 05:57:01 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[LSZ reduction formula]]></title><description><![CDATA[ 
  <br>Lehmann-Symanzik-Zimmermann (LSZ) reduction formula:<br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/lsz-reduction-formula.html</link><guid isPermaLink="false">Honours/Topics/LSZ reduction formula.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 25 Jan 2025 03:02:02 GMT</pubDate></item><item><title><![CDATA[Renormalisation]]></title><description><![CDATA[ 
  <br>
 <br>all physical observables are finite
@@ -299,7 +203,7 @@ mass gap, to become positive energy states"<br>
 664–679 (1951).<br>66K. Hattori, K. Itakura, and S. Ozaki, “Strong-field physics in QED and QCD: From<br>
 fundamentals to applications”, Progress in Particle and Nuclear Physics 133, 104068<br>
 (2023).]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/schwinger-effect.html</link><guid isPermaLink="false">Honours/Topics/Schwinger effect.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 06:49:45 GMT</pubDate></item><item><title><![CDATA[Wick's Theorem]]></title><description><![CDATA[ 
- <br><br>where  denotes normal ordering<br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/wick's-theorem.html</link><guid isPermaLink="false">Honours/Topics/Wick's Theorem.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 25 Jan 2025 02:59:38 GMT</pubDate></item><item><title><![CDATA[Abstract]]></title><description><![CDATA[ 
+ <br><br>where  denotes normal ordering<br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/topics/wick&apos;s-theorem.html</link><guid isPermaLink="false">Honours/Topics/Wick&apos;s Theorem.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 25 Jan 2025 02:59:38 GMT</pubDate></item><item><title><![CDATA[Abstract]]></title><description><![CDATA[ 
  <br>No comprehensive description of tunnelling mechanism QFT<br>
 <br>QFT has only local interactions via coupled quantised fields
 <br>
@@ -417,7 +321,7 @@ perturbation series in incoming momentum characterises tunnelling regime, but fa
 <br>plane-wave/laser fields 
 <br>constant electric/magnetic fields (linear potential)
 <br>Coulomb corrections in nuclei
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/background.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Background.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 07:12:12 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch3 Standard QFT scattering calculation]]></title><description><![CDATA[ 
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/background.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Background.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 18 Jan 2025 07:12:12 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118155314.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch3 Standard QFT scattering calculation]]></title><description><![CDATA[ 
  <br>Sources:<br>
 <br>S. De Leo and P. Rotelli, “Potential scattering in Dirac field theory”, The European Physical Journal C 62, 793–797 (2009).
 <br>C. Xu, F. Feng, and Y.-J. Li, “Path integral approach to electron scattering in classical electromagnetic potential*”, Chinese Physics B 25, 050303 (2016).
@@ -439,7 +343,7 @@ perturbation series in incoming momentum characterises tunnelling regime, but fa
 
 
 <br>Note:<br>
-For  small, amplitudes are divergent... so breakdown in tunnelling regime.]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch3-standard-qft-scattering-calculation.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch3 Standard QFT scattering calculation.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 25 Jan 2025 05:52:33 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125133422.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125133422.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch4 Reproducing RQM tunnelling probabilities using QFT methods]]></title><description><![CDATA[ 
+For  small, amplitudes are divergent... so breakdown in tunnelling regime.]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch3-standard-qft-scattering-calculation.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch3 Standard QFT scattering calculation.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 25 Jan 2025 05:52:33 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125133422.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125133422.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch4 Reproducing RQM tunnelling probabilities using QFT methods]]></title><description><![CDATA[ 
  <br>
 <br>inhomogeneous Klein-Gordon equation<br>
 Quantum fields with classical perturbations<br><br><a rel="noopener nofollow" class="external-link" href="https://doi.org/10.1063/1.4878920" target="_blank">https://doi.org/10.1063/1.4878920</a><br>
@@ -530,7 +434,7 @@ Comparing to RQM calculation:
 pg41-43<br>
 -&gt; "geometric series in the S-matrix for a neutral scalar interacting with an external potential only arises for delta functions. "
 <br><br>pg44-47<br>
-<img alt="Pasted image 20250125194329.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125194329.png">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch4-reproducing-rqm-tunnelling-probabilities-using-qft-methods.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch4 Reproducing RQM tunnelling probabilities using QFT methods.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Mon, 03 Feb 2025 21:41:43 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125184652.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125184652.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch5 QFT corrections to RQM tunnelling probabilities]]></title><description><![CDATA[ 
+<img alt="Pasted image 20250125194329.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125194329.png">]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch4-reproducing-rqm-tunnelling-probabilities-using-qft-methods.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch4 Reproducing RQM tunnelling probabilities using QFT methods.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Mon, 03 Feb 2025 21:41:43 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125184652.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250125184652.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch5 QFT corrections to RQM tunnelling probabilities]]></title><description><![CDATA[ 
  <br>"how do loop diagrams (and therefore virtual particle creation) affect tunnelling probabilities?"<br>Furry expansion: coupling to the additional scalar field is perturbative while the external field remains non-perturbative<br><br>renormalisable -&gt; coupling constant must have non-negative energy dimensions<br>-&gt; choose additional coupling to neutral scalar field<br><br><img alt="Pasted image 20250126175830.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175830.png"><br>
 <img alt="Pasted image 20250126175847.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175847.png"><br>one-particle irreducible (1PI):  diagram which does not break into two pieces when any internal line is ‘cut’. -&gt; all internal lines carry loop momenta<br><img alt="Pasted image 20250126180328.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126180328.png"><br>Dyson’s power counting theorem: TODO<br>taking:<br>
 <img alt="Pasted image 20250126181236.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126181236.png"><br>
@@ -551,7 +455,7 @@ naive so add:<br>
 <img alt="Pasted image 20250126183814.png" src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126183814.png"><br><br>Feynman parametrization<br>
 Package-X 2.0 
 <br>Passarino-Veltman Coefficients?<br>...<br>
-no dependence on barrier height.]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch5-qft-corrections-to-rqm-tunnelling-probabilities.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch5 QFT corrections to RQM tunnelling probabilities.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 26 Jan 2025 07:50:49 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175830.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch6 Finding asymptotic bounds for QFT corrections to tunnelling]]></title><description><![CDATA[ 
+no dependence on barrier height.]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/ch5-qft-corrections-to-rqm-tunnelling-probabilities.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Ch5 QFT corrections to RQM tunnelling probabilities.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 26 Jan 2025 07:50:49 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175830.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250126175830.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ch6 Finding asymptotic bounds for QFT corrections to tunnelling]]></title><description><![CDATA[ 
  <br>delta function applied to G(1-loop) breaks Lorentz-invariance<br>
 <br>no exploiting isotropy through Wick rotation
 <br>integrals also resistant to contour integration???<br>
@@ -722,4 +626,100 @@ However, all public integration packages depend on specific properties of Lorent
 A more feasible pursuit may be investigating numerical methods in strong-field QED, where the external field is included by design. The advantage of these are that they already describe physical systems: typically orbital electrons and point Coulomb potentials. These works are confined to the Furry expansion in a Coulomb potential, where tunnelling effects are not explicitly considered. Typically, the numerical/analytical process is two-fold: first the RQM Green's function is determined, and then the remaining integrals in the Feynman amplitude are calculated. This is also the case with my work, as the RQM dressed propagator must be found before single-loop corrections can be calculated. In order to extend previous numerical work to tunnelling phenomena, the Green's function in the presence of a potential which has tunnelling solutions must be considered: this may be the Coulomb field with a strong constant (or rotating) external field, as in the case of tunnel ionization of atoms. Note that tunnel ionization may present additional difficulties; due to the bound nature of the electron, these states are not easily described within an -matrix formalism. This is a more general limitation of this thesis (but also QFT broadly): no bound states can be described with this work. However, the key idea regarding numerical methods in strong-field QED is the same: if RQM Green's functions can be found for physically useful potentials numerically, loop corrections may be added using the existing techniques in strong-field QED, enabling quantum corrections to tunnelling to be computed.
 <br>
 <br>collective tunneling??
-]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Rosemary Zielinski Works.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 03:28:30 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118181348.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118181348.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html</link><guid isPermaLink="false">Honours/Zielinski-Thesis/Rosemary Zielinski Works.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sun, 02 Feb 2025 03:28:30 GMT</pubDate><enclosure url="https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118181348.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://maxfleming23.github.io/Honours-Notes/lib/media/pasted-image-20250118181348.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Honours Journal]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>meetup, setup desk
+<br>WHS modules
+<br>play with creating Feynman diagrams in latex (resource: 1601.05437)
+<br>re-reading papers and thesis (see <a data-href="Rosemary Zielinski Works" href="https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html" class="internal-link" target="_self" rel="noopener nofollow">Rosemary Zielinski Works</a>):
+
+<br><a data-href="Tunnelling amplitudes through localised external potentials from Feynman diagram summation" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/tunnelling-amplitudes-through-localised-external-potentials-from-feynman-diagram-summation.html" class="internal-link" target="_self" rel="noopener nofollow">Tunnelling amplitudes through localised external potentials from Feynman diagram summation</a> (2405.11779)
+
+
+<br>Areas of promise: <a data-href="Rosemary Zielinski Works#Future Directions" href="https://maxfleming23.github.io/Honours-Notes/honours/zielinski-thesis/rosemary-zielinski-works.html#Future_Directions" class="internal-link" target="_self" rel="noopener nofollow">Rosemary Zielinski Works &gt; Future Directions</a>
+<br><br>Mon 03/02:<br>
+<br>Admin: laptop power tagged and tested, AH access
+
+<br>printing setup windows-vm and arch alias: physicsprint
+
+
+<br>Reading: pg1-10 <a data-href="Quantum fields with classical perturbations" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/quantum-fields-with-classical-perturbations.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum fields with classical perturbations</a>, - really a great resource, it seems!
+<br>Identify larger resources (read TOC):
+
+<br><a data-href="Advances in QED with intense background fields" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/advances-in-qed-with-intense-background-fields.html" class="internal-link" target="_self" rel="noopener nofollow">Advances in QED with intense background fields</a> including: Furry Expansion and Schwinger Effect
+<br><a data-href="Strong-field physics in QED and QCD From fundamentals to applications" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/strong-field-physics-in-qed-and-qcd-from-fundamentals-to-applications.html" class="internal-link" target="_self" rel="noopener nofollow">Strong-field physics in QED and QCD From fundamentals to applications</a>
+
+
+<br>Tue 04/02:<br>
+<br>read pg10-30 and skim rest of <a data-href="Quantum fields with classical perturbations" href="https://maxfleming23.github.io/Honours-Notes/honours/notes-reports/quantum-fields-with-classical-perturbations.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum fields with classical perturbations</a>. 
+
+<br>section on neutral/charged scalar fields with mass/non-mass sources (including renormalisation)!
+
+
+<br>Start this journal!
+<br>Investigate <a data-href="Klein paradox" href="https://maxfleming23.github.io/Honours-Notes/honours/topics/klein-paradox.html" class="internal-link" target="_self" rel="noopener nofollow">Klein paradox</a>:
+
+<br>read Klein's The reflection of electrons by a potential jump according to Dirac’s relativistic dynamics
+<br>read Seventy years of the Klein paradox
+
+
+<br>Wed 05/02:<br>
+<br>read and write up cedric's <a data-href="NRQM tunnelling through barrier#Derivation" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Derivation" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Derivation</a> calc
+<br>I ran a simple sim but could not seem to avoid divergence (really I was choosing wrong constant values!)
+<br>Investigated sequence/matrix limit and examples <a data-href="NRQM tunnelling through barrier#Trying examples" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Trying_examples" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Trying examples</a> and 2_05_Tunneling Arbitrary Potential.pdf
+<br>Got a little side tracked... 
+
+<br>realised in analytic investigation that dynamics look like a Dirichlet L-function
+<br>played around in 2_05_Tunneling Arbitrary Potential.pdf
+
+
+<br>Thu 06/02:<br>
+<br>Morning: resolved divergence problem! wrote/ran simulations:<a data-href="NRQM tunnelling through barrier#Numerical solutions" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Numerical_solutions" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Numerical solutions</a> in 2_06_practice_barrier.ipynb
+
+<br>limiting to delta
+<br>limits from delta
+
+
+<br>read/skim The Dynamics of Runge–Kutta Methods
+<br>Afternoon: setup <a data-href="Notes share site" href="https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/notes-share-site.html" class="internal-link" target="_self" rel="noopener nofollow">Notes share site</a>: <a rel="noopener nofollow" class="external-link" href="https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html" target="_blank">https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</a>
+<br>Fri 07/02:<br>
+<br>re-read <a data-href="Quantum corrections to tunnelling amplitudes of neutral scalar fields" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/quantum-corrections-to-tunnelling-amplitudes-of-neutral-scalar-fields.html" class="internal-link" target="_self" rel="noopener nofollow">Quantum corrections to tunnelling amplitudes of neutral scalar fields</a> 
+<br>read Schwinger's <a data-href="On Gauge Invariance and Vacuum Polarization" href="https://maxfleming23.github.io/Honours-Notes/honours/articles/on-gauge-invariance-and-vacuum-polarization.html" class="internal-link" target="_self" rel="noopener nofollow">On Gauge Invariance and Vacuum Polarization</a>
+<br>read <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach</a>
+<br>Found Numerov's method!!! <a data-href="NRQM tunnelling through barrier#Compare to Literature" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Compare_to_Literature" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Compare to Literature</a>
+<br>Weekend:<br>
+<br>Watched 1,2,3 of <a data-href="RH Saga" href="https://maxfleming23.github.io/Honours-Notes/honours/fun-fact/rh-saga.html" class="internal-link" target="_self" rel="noopener nofollow">RH Saga</a> (upcoming video on connection to QFT??! )
+
+<br><a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3" target="_blank">https://www.youtube.com/playlist?list=PL300nJOfVNKZH3H-2J_g1bZRYOx-dQUp3</a> (a little further down the rabbit hole of L-functions)
+<br><a rel="noopener nofollow" class="external-link" href="https://www.lmfdb.org/" target="_blank">https://www.lmfdb.org/</a>
+
+
+<br><br>Mon 10/02:<br>
+<br>O week activities
+<br>Tue 11/02:<br>
+<br>10am honours induction meeting; catch-up until mid afternoon
+<br>read about Hartree-Fock diagrammatic expansion in Book: Quantum theory of many-particle systems QC174_17_P7_F47_2003_Quantum_theory_of_many_particle_systems_Alexander_L_Fetter.pdf
+<br>Great book by Economou with many general green's function methods! QC174_17_G68_E25_2006_Green_s_functions_in_quantum_physics_Eleftherios_N_Economou.pdf
+<br>Wed 12/02:<br>
+<br>Spin extension to discrete tunnelling simulations <a data-href="NRQM tunnelling through barrier#Spin Extension" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Spin_Extension" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Spin Extension</a>
+
+<br>Marked as possible future analogy to QFT result?
+
+
+<br>Split Step Fourier Method <a data-href="NRQM tunnelling through barrier#Multi-dimension time-dep wave-packet" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/nrqm-tunnelling-through-barrier.html#Multi-dimension_time-dep_wave-packet" class="internal-link" target="_self" rel="noopener nofollow">NRQM tunnelling through barrier &gt; Multi-dimension time-dep wave-packet</a>:
+
+<br>read 2_13_0723033.pdf 
+<br>implement in 2_06_practice_barrier.ipynb 
+
+
+<br>Thu 13/02:<br>
+<br>re-read <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach</a> and try an alternative approach:
+<br>Extending to Dirac case <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach#Dirac Field Alternative Derivation" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html#Dirac_Field_Alternative_Derivation" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach &gt; Dirac Field Alternative Derivation</a>
+
+<br>also see hand written notes 2_13_hand-scratch-dirac-case-draft.jpg
+
+
+<br>Calculating R/T coefficients <a data-href="Exploring Quantum Tunnelling through External Potentials, A QFT approach#Reflection and Transmission coefficients" href="https://maxfleming23.github.io/Honours-Notes/honours/calcs/exploring-quantum-tunnelling-through-external-potentials,-a-qft-approach.html#Reflection_and_Transmission_coefficients" class="internal-link" target="_self" rel="noopener nofollow">Exploring Quantum Tunnelling through External Potentials, A QFT approach &gt; Reflection and Transmission coefficients</a>
+<br>Fri 14/02:<br>
+<br>Journal cleanup!
+<br>Weekend:<br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>https://maxfleming23.github.io/Honours-Notes/honours/honours-journal.html</link><guid isPermaLink="false">Honours/Honours Journal.md</guid><dc:creator><![CDATA[Max Fleming]]></dc:creator><pubDate>Sat, 15 Feb 2025 11:02:41 GMT</pubDate></item></channel></rss>
